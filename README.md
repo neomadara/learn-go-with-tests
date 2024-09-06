@@ -2,7 +2,8 @@
 
 ### State of course
 ```
-Hello, world - ok
-Integers - ok
-Iteration - in process
+Hello, world - done
+Integers - done
+Iteration - done
+Arrays and slices - in process 
 ```
