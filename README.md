@@ -6,5 +6,7 @@ Hello, world - done
 Integers - done
 Iteration - done
 Arrays and slices - done
-Structs, methods & interfaces - in progress
+Structs, methods & interfaces - done
+Pointers & erros - in progress
+
 ```
